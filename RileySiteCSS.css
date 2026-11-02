@@ -1,0 +1,62 @@
+ 
+    body{
+        background-color: #c5a6d9
+        }
+       h1{
+            font-style: italic;
+            text-align: center;
+            font-size: 5em;
+        }
+         .banner{
+            width: 300px;
+        }
+        .starrow{
+            display:flex;
+            flex-direction: row;
+            margin-left:15em;
+        }
+        .row{
+            display:flex;
+            flex-direction: row;
+
+        }
+        .column-left{
+            display:inline-block;
+            width: 50vw;
+            border-radius:1em;
+
+        }
+        .column-right{
+            display: inline-block;
+            width:50vw;
+            border-radius: 2em;
+        }
+        .aboutme{
+            color:black;
+            font-size: 1.5em;
+            margin-top: 5em;
+            background-color:#80BA5D;
+            
+
+        }
+        .experience{
+            color: black;
+            font-size:1.5em;
+            background-color:#80BA5D ;
+            border: 2em;
+        }
+        .rileyimg{
+            width: 750px;
+            height: auto;
+        }
+           .navigation{
+        margin-top: 1.5em;
+        margin-left: 10em;
+
+       }
+         .link-item{
+        color: white;
+        border-radius: 1em;
+        padding: 1em;
+        background-color: #80BA5D;
+       }

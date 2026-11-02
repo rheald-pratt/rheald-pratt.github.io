@@ -1,0 +1,43 @@
+     body{
+        background-color: #c5a6d9;
+    }
+    .navigation{
+        text-align: left;
+        margin-top:2em;
+    }
+    .link-item{
+        background-color: #80BA5D;
+        color: white;
+        padding: 1em;
+        border-radius: 1em; 
+    }
+    h1{
+        font-style:italic;
+        text-align: center;
+        font-size: 3em;
+    }
+     .banner{
+            width: 300px;
+        }
+        .starrow{
+            display:flex;
+            flex-direction: row;
+            margin-left:15em;
+        }
+    .row{
+        display:flex;
+        flex-direction: row;
+    }
+    .column-left{
+        display: inline-block;
+        width:50vw;
+        font-size:1.5em;
+    }
+    .column-right{
+        display: inline-block;
+        width: 50vw;
+        background-color: #80BA5D;
+        font-size: 1.5em;
+        border: dotted;
+    }
+
